@@ -1,4 +1,4 @@
-Number Formatter
+IDX Round
 =========
 
 A small library to round stock price according to IDX price fraction
