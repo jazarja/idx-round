@@ -1,7 +1,7 @@
 {
   "name": "idx-round",
-  "version": "1.0.0",
-  "description": "Rounding library for IDX (Indonesia) stock market",
+  "version": "1.0.2",
+  "description": "Stock price rounding library for IDX (Indonesia) stock market",
   "main": "index.js",
   "scripts": {
     "test": "mocha --reporter spec"
@@ -11,5 +11,18 @@
   "devDependencies": {
     "chai": "^4.1.2",
     "mocha": "^3.5.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jazarja/idx-round.git"
+  },
+  "keywords": [
+    "stock",
+    "stock price",
+    "stock market",
+    "saham",
+    "bursa saham",
+    "indonesia",
+    "fraksi harga saham"
+  ]
 }
